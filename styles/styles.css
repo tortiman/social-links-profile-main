@@ -83,4 +83,16 @@ input{
     color: var(--white);
     font-weight: 600;
     border-radius: 8px;
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: var(--green);
+    color: black;
+}
+
+@media (max-width:800px){
+    .main{
+        width: 434px;
+    }
 }
