@@ -32,9 +32,9 @@ Users should be able to:
 
 Solutions:
 
-![Design for desktop](.screenshots/desktop.png)
+![Design for desktop](./screenshots/desktop.png)
 
-![Design for mobile](.screenshots/mobile.png)
+![Design for mobile](./screenshots/mobile.png)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
